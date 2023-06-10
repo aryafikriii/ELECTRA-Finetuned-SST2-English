@@ -41,12 +41,6 @@ pip install -r requirements.txt
 python transferLearning_All-Layer.py
 ```
 
-5. Use the trained model for inference on new text data by modifying the `predict` function in the `train_and_evaluate.py` file. Provide the input text and run the script.
-
-```
-python transferLearning_All-Layer.py
-```
-
 Note: Make sure you have a compatible GPU device with the necessary drivers and CUDA toolkit installed to run the training and inference processes efficiently.
 
 ## Contact
